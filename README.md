@@ -62,9 +62,9 @@ endmodule
 
 
 ##  RTL realization
-HALF SUBtRACTOR
+#HALF SUBTRACTOR
 ![image](https://github.com/DEEPAK2200233/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118707676/8005115a-824b-487a-b50f-f789af6ef870)
-FULL SUBtRACTOR
+#FULL SUBTRACTOR
 ![image](https://github.com/DEEPAK2200233/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118707676/7bc34a23-93b5-4d00-b2bb-b070ba467a35)
 
 
