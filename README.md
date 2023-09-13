@@ -31,6 +31,7 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ## Program:
 /*
+```
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: S.DEEPAK RAJ
 RegisterNumber: 212222240023
@@ -51,7 +52,8 @@ input a,b,bin;
 output diff,borr;
 assign diff=a^b^bin;
 assign borr=((~a)&b)|(b&bin)|((~a)&bin);
-endmodule 
+endmodule
+```
 */
 ## Truthtable
 ![image](https://github.com/DEEPAK2200233/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118707676/1c7b1b34-0eff-41ce-907c-1c3cc05abc19)
@@ -70,9 +72,9 @@ endmodule
 
 
 ## Waveform:
-HALF SUBtRACTOR
+#HALF SUBTRACTOR
 ![image](https://github.com/DEEPAK2200233/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118707676/630fd8be-817c-4f70-99ba-282ad854237a)
-FULL SUBtRACTOR
+#FULL SUBTRACTOR
 ![image](https://github.com/DEEPAK2200233/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118707676/e0a9a732-bee6-42a1-8237-a43358a7acd4)
 
 ## Result:
